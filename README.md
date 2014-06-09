@@ -8,4 +8,4 @@ See the latest at: https://larutadeldinero.herokuapp.com/.
 Contributors
 ------------
 
-Please see [CONTRIBUTORS.md](https://github.com/svankmajer/larutadeldinero/blob/master/CONTRIBUTORS.md)
+Please see [CONTRIBUTORS.md](https://github.com/svankmajer/larutadeldinero/blob/master/CONTRIBUTORS.md).
